@@ -1,4 +1,6 @@
-﻿namespace SamuraiApp.Domain
+﻿using System.Collections.Generic;
+
+namespace SamuraiApp.Domain
 {
     public class Samurai
     {
